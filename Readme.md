@@ -1,6 +1,6 @@
 # Semesterproject FoDS
 
-Link to the GitHub repository: 
+Link to the GitHub repository: https://github.com/flurin-sch/FoDS-G2A-submission
 
 ## General remarks
 
