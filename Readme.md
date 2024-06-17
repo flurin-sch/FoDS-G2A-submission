@@ -1,8 +1,11 @@
 # Semesterproject FoDS
 
+Link to the GitHub repository: 
+
 ## General remarks
 
-Before running any code please import the data from Moodle and save it in the folder 'data'.
+Before running any code please import the data from Moodle and save it in a folder 'data'. 
+Please create a folder 'output' that will store any figures created by the notebooks.
 
 Packages needed:
 
@@ -22,4 +25,6 @@ Packages needed:
 
 All files can be run independantly.
 
-The file 'flurin_logReg_PCA.ipynb' contains also code for other models or variations not discussed in the report. It is not necessary for you to take them into consideration but are provided for completeness sake. Additional comments are provided in markdown cells.
+The file 'flurin_logReg_PCA.ipynb' contains also code for other models or variations not discussed in the report. 
+It is not necessary for you to take them into consideration but they are provided for completeness sake. 
+Additional comments are provided in markdown cells.
